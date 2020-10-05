@@ -1,19 +1,19 @@
-<!-- styles for my resume -->
-body {
+<!-- styles for my resume --!>
+#body {
   font-family: Open Sans, sans-serif;
   font-size:1em;
   color:#444;
   font-weight: 400;
 }
 
-<!-- banner name at top -->
+<!-- banner name at top --!>
 h1 {
   font-size: 3em;
   color: #33485e
   text-transform: uppercase;
 }
 
-  <!-- section titles -->
+  <!-- section titles --!>
 h2{
   font-size: 1.5em;
   text-transform: uppercase;
@@ -23,19 +23,19 @@ h2{
 
 }
 
-  <!-- job titles -->
+  <!-- job titles --!>
 h3{
   font-weight:400;
   font-size: 1.5em;
 }
 
-  <!-- job organizations -->
+  <!-- job organizations --!>
 h4{
   font-weight:400;
   font-size: 1.5em;
 }
 
-  <!-- job dates -->
+  <!-- job dates --!>
 h5{
   font-weight:400;
   font-size: 1em;
@@ -43,7 +43,7 @@ h5{
 
 }
 
-  <!-- items in lists -->
+  <!-- items in lists --!>
 li{
   font-size: 1em;
 }
