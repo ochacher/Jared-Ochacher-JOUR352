@@ -1,6 +1,6 @@
 <!-- styles for my resume --!>
 body {
-  font-family: Open Sans, sans-serif;
+  font-family:'open sans', arial,sans-serif;
   font-size:1em;
   color:#444;
   font-weight: 400;
@@ -8,9 +8,11 @@ body {
 
 <!-- banner name at top --!>
 h1 {
-  font-size: 3em;
-  color: #33485e
+  font-size:3em;
   text-transform: uppercase;
+  text-align:center;
+  color: #33485e;
+
 }
 
   <!-- section titles --!>
