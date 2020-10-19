@@ -9,3 +9,19 @@
   color: white;
   background-color: #6495ED;
 }
+
+#headline{
+  text-align: center;
+  font-family: arial, sans-serif;
+  font-size: 25px;
+}
+
+#byline {
+font-family: Helvetica, sans-serif;
+font-size: 14px;
+font-style: italic;
+}
+
+p{
+  font: 13px Georgia, Serif;
+}
