@@ -7,13 +7,16 @@
   padding: 1em ;
   font: 50px Arial, sans-serif;
   color: white;
-  background-color: #6495ED;
+  background-color: #FF6347;
 }
 
 #headline{
   text-align: center;
   font-family: arial, sans-serif;
   font-size: 25px;
+  margin-top: 15px;
+  margin-bottom: 35px;
+
 }
 
 #byline {
@@ -22,6 +25,50 @@ font-size: 14px;
 font-style: italic;
 }
 
+#caption1{
+  font-size: 11px;
+  font-family: Helvetica, sans-serif;
+  font-style: italic;
+}
+
+#caption2{
+  font-size: 11px;
+  font-family: Helvetica, sans-serif;
+  font-style: italic;
+}
+
+#caption3{
+  font-size: 11px;
+  font-family: Helvetica, sans-serif;
+  font-style: italic;
+}
+
+#caption4{
+  font-size: 11px;
+  font-family: Helvetica, sans-serif;
+  font-style: italic;
+}
+
+h3{
+  font-size:14px;
+  font-weight: lighter;
+  color: gray;
+  margin-top:-20px;
+  font-style: italic;
+
+}
 p{
   font: 13px Georgia, Serif;
+}
+
+blockquote{
+  font: 16px/24px;
+  font-style: italic;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color: #696969;
+  margin-left: 50px;
+  padding-left: 15px;
+  border-left: 4px solid #000000;
+
 }
