@@ -7,7 +7,7 @@
   padding: 1em ;
   font: 50px Arial, sans-serif;
   color: white;
-  background-color: #FF6347;
+  background-color: red;
 }
 
 #headline{
@@ -70,5 +70,9 @@ blockquote{
   margin-left: 50px;
   padding-left: 15px;
   border-left: 4px solid #000000;
+
+}
+
+a{
 
 }
