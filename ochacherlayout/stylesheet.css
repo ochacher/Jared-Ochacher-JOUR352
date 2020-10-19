@@ -1,0 +1,11 @@
+#content{
+  margin: 0 auto;
+  width: 900px;
+}
+#masthead{
+  text-align: center;
+  padding: 1em ;
+  font: 50px Arial, sans-serif;
+  color: white;
+  background-color: #6495ED;
+}
