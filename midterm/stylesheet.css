@@ -1,3 +1,4 @@
+
 #masthead{
   text-align: center;
   padding: 1em ;
@@ -6,20 +7,34 @@
   background-color: #6495ED;
 }
 
+#content{
+  margin: 0 auto;
+  width: 900px;
+}
+
+
 #headline{
   font-size:32px;
   text-align: center;
   font-weight: bold;
   font: serif;
   padding-top: 30px;
-  padding-bottom: 20px;
+  padding-bottom: 7px;
+}
+
+#byline {
+font-family: Serif, Helvetica, sans-serif;
+font-size: 17px;
+font-style: italic;
+padding-bottom: 25px;
+text-align: center;
+
 }
 
 #subheading{
-  font-size:15px;
+  font-size:20px;
   font-weight: bold;
 }
-
 
 p{
   font-size:12px
@@ -31,4 +46,10 @@ img{
   margin-left: auto;
   margin-right: auto;
   width: 60%;
+  padding: 1em;
+}
+
+#caption{
+  text-align: center;
+  font-style: italic;
 }
