@@ -1,3 +1,4 @@
+/* This CSS sheet is linked to the index.html and allows me to design the style of the article */
 
 #masthead{
   text-align: center;
@@ -48,8 +49,23 @@ img{
   width: 60%;
   padding: 1em;
 }
-
+h1{
+  font-size: 20px;
+}
 #caption{
   text-align: center;
   font-style: italic;
+}
+
+blockquote{
+  font: 16px/24px;
+  font-style: italic;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color: #CD5C5C;
+  margin-left: 50px;
+  padding-left: 15px;
+  border-left: 4px solid #000000;
+
+  padding-bottom: 0px;
 }
