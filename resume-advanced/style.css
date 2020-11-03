@@ -10,6 +10,21 @@ text{
   font-family: arial, sans-serif;
 }
 
+#title{
+  font-family: arial,sans-serif;
+  color: grey;
+}
+
+h1{
+  text-align: center;
+  font-family: arial,sans-serif;
+  font-size: 2em;
+  padding-top: 0.5em;
+}
+.description{
+  font-family: arial,sans-serif;
+  color: black;
+}
   .center{
   display: block;
   margin-left: auto;
@@ -61,29 +76,38 @@ hero-image{
 
 /* section titles */
 .sectionheader{
+  font-family: arial,sans-serif;
+  text-align: center;
   font-size: 1.5em;
   text-transform: uppercase;
+  letter-spacing: 0.05em;
   color:#fff;
   font-weight: 400px;
-  background: #33485e;
+  background: grey;
   margin-top: 20px;
   margin-bottom:10px;
   margin-right:0;
   margin-left:0;
-  width:30%;
+  width:100%;
   min-width:300px;
+  border-radius: 25px;
 }
 
 /* job titles */
-#jobtitle{
-  font-weight:400;
-  font-size: 1.5em;
+.jobtitle{
+  font-weight: 900px;
+  font-size: 1.25em;
+  color:black;
+  font-family: arial,sans-serif;
 }
 
+
 /* job organizations */
-#organization{
-  font-weight:400;
-  font-size: 1.25em;
+.organization{
+  font-weight: 700px;
+  font-size: 1em;
+  color:black;
+  font-family: arial,sans-serif;
 }
 
 /* job dates */
@@ -109,9 +133,6 @@ hero-image{
   margin-bottom: 30px;
 }
 
-footer{
-  margin-top:30px;
-}
 
 /* items in lists */
 .menu {
@@ -143,10 +164,12 @@ footer{
 
 li{
   font-size: 1em;
+  color: black;
+  font-weight:50;
 }
 footer{
   text-align: center;
   padding: 3px;
-  background-color: #33485e;
+  background-color: grey;
   color: white;
 }
