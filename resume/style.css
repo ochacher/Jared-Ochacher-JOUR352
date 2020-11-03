@@ -10,19 +10,16 @@ text{
   font-family: arial, sans-serif;
 }
 
-hero-image{
-  width:100%;
-  max-width:1200px;
-  margin:0 auto;
-  padding: 1em;
-}
-
-.center{
-display: block;
+  .center{
+  display: block;
   margin-left: auto;
   margin-right: auto;
   width: 25%;
   border-radius: 50%;
+}
+
+hero-image{
+  text-align:center;
 }
 
 .top{

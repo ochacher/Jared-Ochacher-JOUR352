@@ -1,0 +1,54 @@
+.headline {
+  font-size:3em;
+  font-weight:700;
+  text-align:center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.byline{
+  font-size:1em;
+  text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
+  text-align:center;
+}
+
+p{
+  font-family: georgia,serif;
+  line-height: 180%;
+}
+
+h1{
+  font-family:'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 2em;
+  padding-bottom: 35px;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 1000px;
+  padding-top: 2em;
+}
+
+#caption{
+  text-align: center;
+  font-style: italic;
+  padding-bottom: 2em;
+  font-family: georgia,serif;
+}
+
+footer{
+  text-align: center;
+  padding: 3px;
+  background-color: Black;
+  color: white;
+}
+
+.row{
+  text-align: center;
+  padding-bottom: 3em;
+  font-family: georgia,serif;
+}
