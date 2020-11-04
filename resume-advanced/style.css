@@ -167,9 +167,12 @@ li{
   color: black;
   font-weight:50;
 }
+
+
 footer{
   text-align: center;
   padding: 3px;
   background-color: grey;
   color: white;
+  margin-top: 2em;
 }
