@@ -14,13 +14,9 @@
   width: 100%;
   max-width: 1200px;
   margin: 0 auto;
+  padding-bottom: 50px;
 }
 
-strong{
-  text-transform: uppercase;
-  font-size: 1.5em;
-  color: #33485e;
-}
 body{
   font-family: 'Open Sans', arial, sans-serif;
   font-size: 1em;
@@ -48,17 +44,63 @@ body{
   font-size: 1.5em;
 }
 
-h4{
+.organization{
   font-weight: 400;
-  font-size: 1.5em;
+  font-size: 1.25em;
 }
 
-h5{
+.date{
   font-weight: 400;
   font-size: 1em;
   font-style: italic;
+  margin-top: 2px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
 }
 
+.top{
+  width: 60%;
+  min-width: 300px;
+  margin: 0 auto;
+
+}
+
+.menu{
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+
+.list{
+  display: inline;
+}
 li{
   font-size: 1em;
+}
+
+#degrees{
+  margin-top: 5px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+#do{
+  margin-top: 5px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+#title{
+  font-weight: 600;
+  margin-top: 20px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  text-transform: uppercase;
+  font-size: 1.5em;
+  color: #33485e;
+  text-align: center;
 }
