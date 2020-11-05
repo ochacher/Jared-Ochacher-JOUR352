@@ -1,9 +1,19 @@
 
-h1{
+#name{
   font-size: 3em;
   color: #33485e;
   text-align: center;
   text-transform: uppercase;
+  border-bottom: 1px solid #33485e;
+  width: 60%;
+  min-width: 300px;
+  margin: 0 auto;
+}
+
+#container{
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 strong{
@@ -18,15 +28,22 @@ body{
   font-weight: 400;
 }
 
-h2{
+.sectionheader{
   font-size: 1.5em;
   text-transform: uppercase;
   font-weight: 400;
   background-color: #33485e;
   color: white;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  margin-right: 0;
+  margin-left: 0;
+  width: 70%;
+  min-width: 300px;
+
 }
 
-h3{
+.jobtitle{
   font-weight: 600;
   font-size: 1.5em;
 }
